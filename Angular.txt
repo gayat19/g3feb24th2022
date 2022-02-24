@@ -1,0 +1,29 @@
+node --version
+
+npm install -g @angular/cli
+
+ng --version
+
+ng new <projectName>
+
+cd <projectName>
+
+
+ ng serve
+
+http://localhost:4200/
+
+
+SPA - Single Page Applications
+
+ng g c <componentName>
+.ts -> component -> selector
+.css - style
+.html -> view
+.spect.ts -> testing
+
+use the selector for adding the component
+example
+If the component is sample
+<app-sample> -> in app.component.html
+

@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.exe
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.deps.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.runtimeconfig.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\ref\UnderstandingTaskApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\bin\Debug\net5.0\UnderstandingTaskApplication.pdb
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\ref\UnderstandingTaskApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.pdb
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID013\Stage3\UnderstandingTaskApplication\obj\Debug\net5.0\UnderstandingTaskApplication.genruntimeconfig.cache
