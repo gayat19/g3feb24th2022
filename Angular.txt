@@ -27,3 +27,20 @@ example
 If the component is sample
 <app-sample> -> in app.component.html
 
+Routing-
+MVC - baseAddress/Controller/Action
+
+Route url-> component mapping
+
+Switch
+Routing
+   Parameter routing
+
+Local storage
+
+Piping -> filters
+
+Inter component communication
+Parameter in routing
+local storage
+
