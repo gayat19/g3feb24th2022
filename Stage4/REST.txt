@@ -1,0 +1,28 @@
+RESTful Service
+  Resource
+    Create/Update/Delete/Read
+Employee
+  Create -> AddEmployee -> POST
+  Modify -> UPdateEmployeeSalary -> PUT
+  Delete -> DeleteEMployee -> DELETE
+  ListEmployees-> GetAllEMployees -> GET
+  ONeEmployee -> GetEMployeeByID -> GET
+
+http://localhost:43560/Employee -> GET -> Get all teh employee
+
+http://localhost:43560/Employee/202 -> GET -> Get one employee using teh ID
+
+http://localhost:43560/Employee -> POST -> With employee object in teh body of the request, creates the employee
+
+http://localhost:43560/Employee/202 -> PUT -> 
+With the meployee object in the body of teh request, updates the employee 202's details
+
+http://localhost:43560/Employee -> DELETE-> delete the employee with id 202
+
+
+Client-Server arch
+NO condition 
+Cache-enable
+Standard/Consistent Interface 
+Resource Access
+Stateless
