@@ -26,3 +26,9 @@ Cache-enable
 Standard/Consistent Interface 
 Resource Access
 Stateless
+
+1XX- Info
+2XX- Success
+3XX- Redirection
+4XX - Client side error
+5XX - Server side error
